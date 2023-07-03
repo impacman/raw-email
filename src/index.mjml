@@ -141,7 +141,7 @@
           border-radius="10px"
           text-transform="uppercase"
           css-class="main-btn"
-          href="#"
+          href="https://go.raw.app/mPwHjhh62NkcX1Yb8"
         >
           Get RAW
         </mj-button>
@@ -217,8 +217,12 @@
         >
           <p class="mo-margin">
             Don’t remember subscribing or change your mind?
-            <a href="#" style="color: #ef7bf8">Click here</a> and we'll remove
-            you from the list right away.
+            <a
+              href="https://raw-final.vercel.app/unsubscribe"
+              style="color: #ef7bf8"
+              >Click here</a
+            >
+            and we'll remove you from the list right away.
           </p>
         </mj-text>
         <mj-spacer height="29px" />
